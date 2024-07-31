@@ -12,3 +12,9 @@ For this assignment, open the `List_Comprehension` folder. Create a list compreh
 
 ## Exercise 4: Function
 For this assignment, open the `Function` folder. Define a function that includes if statements, then call it. 
+
+## Exercise 5: Numpy Package
+For this assignment, open the `Numpy Package` folder. Construct a dictionary to represent a matrix, then convert that dictionary to a matrix by using the numpy package.
+
+## Exercise 6: Networkx Package
+For this assignment, open the `Networkx Package` folder. 
